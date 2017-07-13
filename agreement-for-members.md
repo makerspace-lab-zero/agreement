@@ -98,7 +98,7 @@ Agenda and running of the Annual General Meeting
 Election of Administrator
 --------------------
 - The chair shall seek nominations from the floor for the position of administrator.
-- Once all nominees are in, the chair shall conduct a secret ballot of members present for the position of treasurer and the winner announced. The election shall be held by Exhaustive Ballot.
+- Once all nominees are in, the chair shall conduct a secret ballot of members present for the position of administrator and the winner announced. The election shall be held by Exhaustive Ballot.
 - Elections for the committee members shall be by Single Transferable Vote.
 - If the chair wishes to stand for the administrator position, another chair must be selected by show of hands before the ballot proceeds.
 - In the event of a tie, the best of three rounds of rock/paper/scissors decides the position.
