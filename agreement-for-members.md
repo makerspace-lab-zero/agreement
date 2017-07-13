@@ -1,6 +1,8 @@
+# New Space Membership Agreement
+
 the main draft should include such follow
 
- decision making *vote and pass by saying 85% current member
+decision making *vote and pass by saying 85% current member
 become a member and left system
 freedom of entry
 freedom of usage of space
