@@ -65,8 +65,8 @@ General Meetings
 ----------------
 - There shall be an Annual General Meeting (AGM) held in April each year.
 - An Extraordinary General Meeting (EGM) shall be convened if:
-  - Ten percent of members request one.
-  - Quorum of a general meeting shall the lower of ten percent of members.
+  - The higher of twenty percent of members or four members request one.
+  - Quorum of a general meeting shall the higher of twenty percent of members or four members.
 - The agenda of the AGM shall include annual report from the Administrator and the setting of the membership fee.
 - The agenda of the EGM shall be restricted to the items given in the notice of the EGM.
 - Notice of all general meetings and the agenda of the meeting shall be given by the committee at least one week prior to the meeting.
