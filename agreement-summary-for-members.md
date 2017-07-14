@@ -1,11 +1,11 @@
 Makerspace Agreement Summary
 ============================
 
-- This is a summary of the full Makerspace Agreement. Signature on this agreement implies acceptance of the [full Makerspace Agreement and Operating Procedures](https://github.com/litcheelab/agreement/blob/master/agreement-for-members.md).
+This is a summary of the full Makerspace Agreement. Signature on this agreement implies acceptance of the [full Makerspace Agreement and Operating Procedures](https://github.com/litcheelab/agreement/blob/master/agreement-for-members.md).
 
 Purpose
 -------
-- The main purpose of the makerspace shall be to provide a shared physical workspace, tools, storage and other resources for its members, as well as limited access to members of the public.
+The main purpose of the makerspace shall be to provide a shared physical workspace, tools, storage and other resources for its members, as well as limited access to members of the public.
 
 Membership
 ----------
