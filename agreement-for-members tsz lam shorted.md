@@ -5,7 +5,7 @@ Makerspace Agreement Summary
 
 Purpose
 -------
-- The main purpose of the makerspace shall be to provide a shared physical workspace, tools, storage and other resources for its members.
+- The main purpose of the makerspace shall be to provide a shared physical workspace, tools, storage and other resources for its members, as well as limited access to members of the public.
 
 Membership
 ----------
