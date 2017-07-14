@@ -1,7 +1,7 @@
 Makerspace Agreement Summary
 ============================
 
-- This is a summary of the full Makerspace Agreement.
+- This is a summary of the full Makerspace Agreement. Signature on this agreement implies acceptance of the full Makerspace Agreement and Operating Procedures.
 
 Purpose
 -------
