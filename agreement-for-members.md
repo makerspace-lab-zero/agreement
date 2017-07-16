@@ -1,7 +1,7 @@
 Makerspace Agreement
 ====================
 
-- The name of the organisation, which shall be decided at the first general meeting, hereafter referred to as "the makerspace".
+- The name of the organisation is Lab Zero (0x0), hereafter referred to as "the makerspace".
 - The makerspace shall hold its regular activities in Shenzhen.
 
 Purpose
@@ -36,6 +36,7 @@ Membership
 - Upon leaving or being removed from the makerspace, all keys, access tokens or makerspace property must be returned to the makerspace.
 - On the adoption of this agreement all existing members of Lithee Lab makerspace as of 15th of July 2017 who agree to pay membership fees by end of August 2017 and have agreed to the agreement shall be deemed to be members.
 - In addition to membership, other forms participating in the makerspace will be offered (visitor, single day pass, demo day pass, etc). These do not entitle those people to vote or participate in consensus decisions.
+- Membership can be suspended at the request of the member.
 
 Committee
 ---------
@@ -55,6 +56,7 @@ Finance
 - All income shall be used to achieve the makerspace's objectives.
 - The primary income source for the organisation shall be the membership fee. All other sources shall be secondary income.
 - The committee, in close consultation with the membership, shall coordinate expenditure on the running costs of the makerspace.
+- A treasurer will be appointed by the administrator to keep financial records and prepare accounts as needed under supervision of the administrator.
 
 Use of Resources
 ----------------
