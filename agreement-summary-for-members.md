@@ -12,7 +12,15 @@ Membership
 - 24/7 entry
 - Internet access.
 - Free to use tools at member's own risk.
-- The membership fee shall be paid in advance.
+- The membership fee (**1000 RMB per month**) shall be paid in advance.
+- Membership is granted by consensus of the existing membership.
+
+Guests
+----------
+- 10:00 - 22:00 entry
+- Internet access.
+- Free to use tools at member's own risk.
+- The guest fee (**500 RMB per month**) shall be paid in advance.
 - Membership is granted by consensus of the existing membership.
 
 Organisation
