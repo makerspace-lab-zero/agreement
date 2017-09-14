@@ -1,7 +1,7 @@
 Makerspace Agreement Summary
 ============================
 
-This is a summary of the full Makerspace Agreement. Signature on this agreement implies acceptance of the [full Makerspace Agreement and Operating Procedures](https://github.com/litcheelab/agreement/blob/master/agreement-for-members.md).
+This is a summary of the full Makerspace Agreement. Signature on this agreement implies acceptance of the **full Makerspace Agreement and Operating Procedures** — https://github.com/litcheelab/agreement/blob/master/agreement-for-members.md.
 
 Purpose
 -------
