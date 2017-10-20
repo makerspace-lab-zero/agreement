@@ -19,7 +19,7 @@ Guests
 - 10:00 - 22:00 entry (only if one of members in the space).
 - Internet access.
 - Free to use tools at member's own risk.
-- The guest fee (**500 RMB per month**) shall be paid in advance.
+- The guest fee (**500 RMB per month ot 100 RMB per day**) shall be paid in advance.
 
 Organisation
 ------------
