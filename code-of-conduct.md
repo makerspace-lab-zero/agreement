@@ -51,7 +51,7 @@ education. Suitable for the web site and printed material.
 > attention. People asked to stop any harassing behaviour are expected to
 > comply immediately.
 > 
-> If a person engages in harassing behaviour, DimSumLabs members may
+> If a person engages in harassing behaviour, LAB ZERO members may
 > take any action they deem appropriate, including warning the offender
 > or expulsion from the space or event. If you are being harassed,
 > notice that someone else is being harassed, or have any other
@@ -63,14 +63,14 @@ education. Suitable for the web site and printed material.
 
 ## Internal Version for Members
 
-This version is intended for internal use by DimSumLabs members. It
+This version is intended for internal use by LAB ZERO members. It
 defines our enforcement policy.
 
 ### Warnings
 
-Any member of DimSumLabs can issue a verbal warning to a person that
+Any member of LAB ZERO can issue a verbal warning to a person that
 their behaviour violates the space's anti-harassment policy. Warnings
-should be reported to dimsumlabs-members@lists.dimsumlabs.com as soon
+should be reported to LAB ZERO WeChat group as soon
 as practical. The report should include:
 
 * Identifying information (name) of the person
@@ -95,7 +95,7 @@ further explanation.
 
 When taking a report from someone experiencing harassment you should
 record what they say and reassure them they are being taken seriously,
-but avoid making specific promises about what actions DimSumLabs will
+but avoid making specific promises about what actions LAB ZERO will
 take. Ask for any other information if the reporter has not volunteered
 it (such as time, place) but do not pressure them to provide it if they
 are reluctant. Even if the report lacks important details such as the
@@ -133,7 +133,7 @@ Local authorities should be contacted when appropriate.
 
 ### Public statements
 
-As a general rule, DimSumLabs members should not make any public
+As a general rule, LAB ZERO members should not make any public
 statements about the behaviour of individual people in relation to the
 code of conduct.
 
