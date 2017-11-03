@@ -6,36 +6,40 @@ This is a very short version that refers the reader to a longer version
 of the policy. Suitable for footers on announcement emails, web pages,
 news stories, etc.
 
+> LAB ZERO is dedicated to a harassment-free experience
+> for everyone. Our code of conduct can be found at:
+> https://github.com/lab0x0/agreement/blob/master/code-of-conduct.md
+
 ## Medium public version
 
 This is a statement of the organisers' principles and sets expectations
-for the tone and style of the DimSumLabs. Suitable for the web site and
+for the tone and style of the LAB ZERO. Suitable for the web site and
 longer announcements.
 
-> DimSumLabs is dedicated to providing a harassment-free experience
+> LAB ZERO is dedicated to providing a harassment-free experience
 > for everyone, regardless of gender, gender identity and expression,
 > sexual orientation, disability, physical appearance, body size,
 > race, political affiliation or religion. We do not tolerate harassment
 > of people at our events or space in any form. People violating these
 > rules may be sanctioned or expelled from the space or the event at the
-> discretion of any DimSumLabs member.
+> discretion of any LAB ZERO member.
 > 
 > Our code of conduct can be found at:
-> https://github.com/dimsumlabs/dsl-formal/blob/master/code_of_conduct.md
+> https://github.com/lab0x0/agreement/blob/master/code-of-conduct.md
 
 ## Long public version
 
-This version focuses on specific instructions to people at DimSumLabs,
+This version focuses on specific instructions to people at LAB ZERO,
 with the goal of preventing harassment in the first place through
 education. Suitable for the web site and printed material.
 
-> DimSumLabs is dedicated to providing a harassment-free experience
+> LAB ZERO is dedicated to providing a harassment-free experience
 > for everyone, regardless of gender, gender identity and expression,
 > sexual orientation, disability, physical appearance, body size,
 > race, political affiliation or religion. We do not tolerate harassment
 > of people at our events or space in any form. People violating these
 > rules may be sanctioned or expelled from the space or the event at the
-> discretion of any DimSumLabs member.
+> discretion of any LAB ZERO member.
 > 
 > Harassment includes offensive verbal comments related to gender,
 > gender identity and expression, sexual orientation, disability,
