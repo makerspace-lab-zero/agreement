@@ -6,10 +6,6 @@ This is a very short version that refers the reader to a longer version
 of the policy. Suitable for footers on announcement emails, web pages,
 news stories, etc.
 
-> DimSumLabs is dedicated to a harassment-free experience
-> for everyone. Our code of conduct can be found at:
-> https://github.com/dimsumlabs/dsl-formal/blob/master/code_of_conduct.md
-
 ## Medium public version
 
 This is a statement of the organisers' principles and sets expectations
